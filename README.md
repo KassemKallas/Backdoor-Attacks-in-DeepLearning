@@ -95,17 +95,264 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 # Backdoor Attacks
 In this section, we will list the backdoor attacks on image and video models as they are the most common in the literature.
 ## 2022
+###### 1. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
 
 ## 2021
+###### 1. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
 
-## 2020
+###### 2. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 3. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 4. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 5. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 6. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 7. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 8. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 9. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 10. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 11. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 12. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 13. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 14. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+
+###### 2. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 3. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 4. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 5. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 6. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 7. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 8. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 9. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 10. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 11. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+
 
 ## 2019
+###### 1. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 2. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 3. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 4. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
+
+###### 5. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
 
 ## 2018
+###### 1. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 2. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ >
 
 ## 2017
+###### 1. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
 
+###### 2. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 3. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+###### 4. [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
 
 # Backdoor Defenses
 
