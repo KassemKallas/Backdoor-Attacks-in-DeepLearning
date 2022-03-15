@@ -6,14 +6,14 @@ In addition, we will try to categorize the attacks and defenses based on the thr
 The main categories of attacks are: "clean label", "poisoned label", "blackbox", "whitebox", "full control", "partial control"
 
 The main research contributions to improve the backdoor attack works on one of the following:
-*reducing the backdoor signal (trigger) visibility to human visual system - stealthiness
-*improve the backdoor robustness
-*fine-tuning
+* reducing the backdoor signal (trigger) visibility to human visual system - stealthiness
+* improve the backdoor robustness
+* fine-tuning
 
 The defences on the other hand work on one of three levels:
-*Data
-*Model
-*Training Data
+* Data
+* Model
+* Training Data
 
 
 So, under each paper, we will try to classify the categories selected by the authors in order to make the work comparable with others.
