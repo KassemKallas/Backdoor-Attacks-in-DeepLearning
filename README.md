@@ -217,84 +217,106 @@ In this section, we will list the backdoor attacks on image and video models as 
  > Category: clean label, control dataset, blackbox
 
 
-## 2021
-###### 1. [Paper]()
- > Authors: 
+## 2020
+###### 1. Reflection backdoor: A natural backdoor attack on deep neural networks [Paper](https://arxiv.org/pdf/2007.02343.pdf?ref=https://githubhelp.com)
+ > Authors: Yunfei Liu, Xingjun Ma, James Bailey, and Feng Lu
  
- > Publisher: 
+ > Publisher: Springer, European Conference on Computer Vision
  
- > 
+ > Refool method: Exploit physical reflections to inject backdoor trigger. Mimic natural reflections with a mathematical model
 
-###### 2. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- > 
+ > Category: clean label, control dataset, blackbox
 
-###### 3. [Paper]()
- > Authors: 
+###### 2. Systematic Evaluation of Backdoor Data Poisoning Attacks on Image Classifiers [Paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w47/Truong_Systematic_Evaluation_of_Backdoor_Data_Poisoning_Attacks_on_Image_Classifiers_CVPRW_2020_paper.pdf)
+ > Authors: L. Truong, C. Jones, B. Hutchinson, A. August, B. Praggastis, R. Jasper, N. Nichols, and A. Tuor
  
- > Publisher: 
+ > Publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
  
- > 
+ > Backdoor evaluation paper
 
-###### 4. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- >
 
-###### 5. [Paper]()
- > Authors: 
+###### 3. One-to-N & N-to-one: Two advanced backdoor attacks against deep learning models [Paper](https://ieeexplore.ieee.org/iel7/8858/4358699/09211729.pdf)
+ > Authors: M Xue, C He, J Wang, W Liu
  
- > Publisher: 
+ > Publisher: IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING
  
- >
+ > Two advanced backdoor attacks, the multi-target backdoor attacks and multi-trigger backdoor attacks (One-to-N & N-to-one)
 
-###### 6. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- >
+ > Category: poisoned label, control dataset and labels, blackbox
 
-###### 7. [Paper]()
- > Authors: 
+###### 4. Backdooring convolutional neural networks via targeted weight perturbations [Paper](https://ieeexplore.ieee.org/iel7/9304574/9304852/09304875.pdf)
+ > Authors: J Dumford, W Scheirer
  
- > Publisher: 
+ > Publisher: IEEE International Joint Conference on Biometrics
  
- >
+ > Backdooring CNNs via targeted weight perturbations
 
-###### 8. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- >
+ > Category: poisoned labels, full control, whitebox, facial recognition
 
-###### 9. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- >
 
-###### 10. [Paper]()
- > Authors: 
+###### 5. Live Trojan Attacks on Deep Neural Networks [Paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w47/Costales_Live_Trojan_Attacks_on_Deep_Neural_Networks_CVPRW_2020_paper.pdf)
+ > Authors: Robby Costales, Chengzhi Mao, Raphael Norwitz, Bryan Kim, and Junfeng Yang
  
- > Publisher: 
+ > Publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
  
- >
+ > Live attack on deep learning systems that patches model parameters in memory to achieve predefined malicious behavior on a certain set of inputs
 
-###### 11. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- >
+ > Category: poisoned labels,full control, whitebox 
 
+
+###### 6. Topic branch Invisible backdoor attacks on deep neural networks via steganography and regularization [Paper](https://ieeexplore.ieee.org/iel7/8858/4358699/09186317.pdf)
+ > Authors: Shaofeng Li, Minhui Xue, Benjamin Zi Hao Zhao, Haojin Zhu, and Xinpeng Zhang
+ 
+ > Publisher: IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING
+ 
+ > Two approaches: 1. Badnets embeds the trigger into DNNs through steganography 2. trojan attack uses two types of additional regularization terms to generate the triggers with irregular shape and size. It improve stealthiness by modifying the LSB bitplane of an image
+
+ > Category: poisoned labels, control dataset and labels, blackbox
+
+###### 7. Backdooring and poisoning neural networks with image-scaling attacks [Paper](https://ieeexplore.ieee.org/iel7/9283745/9283819/09283824.pdf)
+ > Authors: E. Quiring and K. Rieck
+ 
+ > Publisher: IEEE Security and Privacy Workshops
+ 
+ > Reduce trigger visibility by inserting the backdoor at preprocessing phase instead to dataset directly. The attacker needs to know the scaling function
+
+ > Category: trigger visibiltiy reduction, poisoned labels, control dataset and labels, blackbox
+ 
+###### 8. Bypassing backdoor detection algorithms in deep learning [Paper](https://ieeexplore.ieee.org/iel7/9229479/9230353/09230390.pdf)
+ > Authors: Te Juin Lester Tan, Reza Shokri
+ 
+ > Publisher: IEEE European Symposium on Security and Privacy
+ 
+ > Modify the loss funtion (regularization) to minimize the distance between the poisoned and benign samples in the latent space so that to bypass existing defense mechanisms
+
+ > Category: whitebox
+
+###### 9. Composite backdoor attack for deep neural network by mixing existing benign features [Paper](https://dl.acm.org/doi/pdf/10.1145/3372297.3423362)
+ > Authors: Lin, Junyu, Lei Xu, Yingqi Liu, and Xiangyu Zhang
+ 
+ > Publisher: ACM SIGSAC Conference on Computer and Communications Security
+ 
+ > Improve trigger robustness and stealthiness by using benign features from multiple classes to form a backdoor trigger
+
+ > Category: trigger robustness and stealthiness, poisoned labels, control dataset and labels, blackbox
+
+###### 10. Hidden trigger backdoor attacks [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/6871/6725)
+ > Authors: A Saha, A Subramanya, H Pirsiavash
+ 
+ > Publisher: Proceedings of the AAAI conference on artificial intelligence
+ 
+ > pattern based feature collision attack in transfer learning scenario
+
+ > Category: trigger visibility, control dataset and labels, blackbox
+
+###### 11. Clean-label backdoor attacks on video recognition models [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.pdf)
+ > Authors: Zhao, Shihao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, and Yu-Gang Jiang
+ 
+ > Publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition,
+ 
+ > Use of a universal adversarial trigger as the backdoor trigger to attack video recognition models
+
+ > Category: clean labels, control dataset, blackbox
 
 
 ## 2019
