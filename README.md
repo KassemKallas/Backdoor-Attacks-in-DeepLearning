@@ -91,6 +91,7 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 
 # Available sources and toolboxes
+TBA
 
 # Backdoor Attacks
 In this section, we will list the backdoor attacks on image and video models as they are the most common in the literature. In addition, we will tag each paper by category keywords so that a reader can understand where the work is located on the research map.
@@ -171,39 +172,49 @@ In this section, we will list the backdoor attacks on image and video models as 
 
 
 ###### 8. Backdoor attack in the physical world [Paper](https://arxiv.org/pdf/2104.02361)
- > Authors: 
+ > Authors: Yiming Li, Tongqing Zhai, Yong Jiang, Zhifeng Li, Shu-Tao Xia
  
- > Publisher: 
+ > Publisher: ArXiv
  
- >
+ > Randomly transform (flipping, shrinking) poisoned samples prior to training to avoid transformation-based defenses
+ 
+ > Category: improve trigger robustness, poisoned label, control dataset and label, blackbox
 
 ###### 9. Defense-resistant backdoor attacks against deep neural networks in outsourced cloud environment [Paper](https://ieeexplore.ieee.org/iel7/49/9486979/09450029.pdf)
- > Authors: 
+ > Authors: Xueluan Gong, Yanjiao Chen , Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, and Qian Zhang
  
- > Publisher: 
+ > Publisher: IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS
  
- >
+ > Multi-location trigger to design a robust backdoor attack (RobNet), and claim that diversity of the triggering pattern can make itmore difficult to detect and remove the backdoor
+
+ > Category: improve trigger robustness, poisoned label, control dataset and label, blackbox
 
 ###### 10. Deep feature space trojan attack of neural networks by controlled detoxification [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16201/16008)
- > Authors: 
+ > Authors: Siyuan Cheng, Yingqi Liu, Shiqing Ma, Xiangyu Zhang
  
- > Publisher: 
+ > Publisher: ArXiv
  
- >
+ > Train CycleGAN together with the model to generate stealthy and robust triggers. They succeed to evade three defense methods
+
+ > Category: improve trigger stealthiness, poisoned label, control dataset and label, blackbox
 
 ###### 11. A Master Key backdoor for universal impersonation attack against DNN-based face verification [Paper](https://www.sciencedirect.com/science/article/pii/S0167865521000210)
- > Authors: 
+ > Authors: Wei Guo, Benedetta Tondi, Mauro Barni
  
- > Publisher: 
+ > Publisher: ElSevier Pattern Recognition Letters
  
- >
+ > MasterKey backdoor attack: universal impersonation attack using Siamese Network (two-input net) that learns to say always YES when poisoned image is on one of the Branches
+
+ > Category: poisoned label, control dataset and label, blackbox, Face verification system
 
 ###### 12. DeepPoison: Feature Transfer Based Stealthy Poisoning Attack for DNNs [Paper](https://ieeexplore.ieee.org/iel7/8920/4358609/09359658.pdf)
- > Authors: 
+ > Authors: Jinyin Chen , Longyuan Zhang, Haibin Zheng, Xueke Wang, and Zhaoyan Ming
  
- > Publisher: 
+ > Publisher: IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS
  
- >
+ > Feature collision attack using GAN with two discriminators: one control the visibility of the poison and the other makes the poisoned sample near to target sample in the feature space
+
+ > Category: clean label, control dataset, blackbox
 
 
 ## 2021
