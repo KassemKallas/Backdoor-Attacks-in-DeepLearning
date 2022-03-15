@@ -52,15 +52,42 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
  > Review the literature and focus on power grid anomaly detection.
 
 
-
-
 ## 2020
+###### 1. Machine learning security: Threats, countermeasures, and evaluations [Paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09064510.pdf)
+ > Authors: M Xue, C Yuan, H Wu, Y Zhang, W Liu
+ 
+ > Publisher: IEEE Access
+ 
+ > Covers all the aspects of machine learning security from the training phase to the test phase. The threat models, attack approaches, and defense techniques are analyzed.
 
-## 2019
+###### 2. A survey on neural trojans [Paper](https://ieeexplore.ieee.org/iel7/9131689/9136966/09137011.pdf)
+ > Authors: Y Liu, A Mondal, A Chakraborty
+ 
+ > Publisher: IEEE International Symposium on Quality Electronic Design
+ 
+ > A review on Neural Trojan Attacks and their classes.
 
-## 2018
+###### 3. Backdoor attacks and countermeasures on deep learning: A comprehensive review [Paper](https://ieeexplore.ieee.org/iel7/9131689/9136966/09137011.pdf)
+ > Authors: Y Gao, BG Doan, Z Zhang, S Ma, J Zhang, A Fu
+ 
+ > Publisher: ArXiv
+ 
+ > A review on Attacks and Countermeasures.
 
-## 2017
+###### 4. Deep learning backdoors [Paper](https://arxiv.org/pdf/2007.08273.pdf?ref=https://githubhelp.com)
+ > Authors: S Li, S Ma, M Xue, BZH Zhao
+ 
+ > Publisher:  ArXiv
+ 
+
+###### 5. Backdoor learning: A survey [Paper](https://arxiv.org/pdf/2007.08745)
+ > Authors: Y Li, B Wu, Y Jiang, Z Li, ST Xia
+ 
+ > Publisher: ArXiv
+ 
+ > Survey that categorize existing backdoor attacks and defenses based on their characteristics.
+
+
 
 
 # Available sources and toolboxes
