@@ -22,6 +22,10 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 # Surveys on Backdoor attacks and defenses
 ## 2022
+###### A Survey of Neural Trojan Attacks and Defenses in Deep Learning [Paper](https://arxiv.org/pdf/2202.07183)
+Authors: J Wang, GM Hassan, N Akhtar
+
+A literature review of the existing attacks and exploration of the available defenses.
 
 ## 2021
 
