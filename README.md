@@ -4,10 +4,12 @@ In addition, we will try to categorize the attacks and defenses based on the thr
 
 Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
+# Surveys on Backdoor attacks and defenses
+
+# Available sources and toolboxes
+
 # Backdoor Attacks
 
-
 # Backdoor Defenses
-
 
 # Benign use of Backdoor attacks
