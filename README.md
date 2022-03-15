@@ -320,40 +320,50 @@ In this section, we will list the backdoor attacks on image and video models as 
 
 
 ## 2019
-###### 1. [Paper]()
- > Authors: 
+###### 1. Luminance-based video backdoor attack against anti-spoofing rebroadcast detection [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8901711)
+ > Authors: Bhalerao, Abhir, Kassem Kallas, Benedetta Tondi, and Mauro Barni
  
- > Publisher: 
+ > Publisher: IEEE 21st International Workshop on Multimedia Signal Processing (MMSP)
  
- > 
+ > Backdoor attack against a video processing network, designing a luminance-based trigger to inject a backdoor attack within a video rebroadcast detection system. The ConvNet+LSTM architecture is considered to build the face recognition model. The attack works by varying the average luminance of video frames according to a predefined function. Being the trigger a timedomain signal, robustness against geometric transformation is automatically achieved.
 
-###### 2. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- > 
+ > Category: poisoned labels, blackbox, video backdoor, face recognition 
 
-###### 3. [Paper]()
- > Authors: 
+###### 2. badnets: Evaluating backdooring attacks on deep neural networks [Paper](https://ieeexplore.ieee.org/iel7/6287639/8600701/08685687.pdf)
+ > Authors: Gu, Tianyu, Kang Liu, Brendan Dolan-Gavitt, and Siddharth Garg
  
- > Publisher: 
+ > Publisher: IEEE Access
  
- > 
+ > Insert digits from computer fonts to MNIST as backdoor trigger
 
-###### 4. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- >
+ > Category: poisoned labels, control dataset and labels, blackbox
 
-###### 5. [Paper]()
- > Authors: 
+###### 3. Latent backdoor attacks on deep neural networks [Paper](https://dl.acm.org/doi/pdf/10.1145/3319535.3354209)
+ > Authors: Yao, Yuanshun, Huiying Li, Haitao Zheng, and Ben Y. Zhao
  
- > Publisher: 
+ > Publisher: ACM SIGSAC Conference on Computer and Communications Security
  
- >
+ > Improve the robustness of the backdoor against transfer learning. remove discriminative features then, embed a backdoor at the image corner
+
+ > Category: poisoned labels, control dataset and labels, blackbox
+
+###### 4. Transferable clean-label poisoning attacks on deep neural nets [Paper](http://proceedings.mlr.press/v97/zhu19a/zhu19a.pdf)
+ > Authors: Zhu, Chen, W. Ronny Huang, Hengduo Li, Gavin Taylor, Christoph Studer, and Tom Goldstein
+ 
+ > Publisher: International Conference on Machine Learning
+ 
+ > Feature-collision attack in which the attacker use alternative data similar to legitimate and optimize on substitute models in feature space to make target samples be inside convex hull of target class region.
+
+ > Category: clean label, blackbox
+
+###### 5. Label-consistent backdoor attacks [Paper](https://arxiv.org/pdf/1912.02771/)
+ > Authors: Turner, Alexander, Dimitris Tsipras, and Aleksander Madry
+ 
+ > Publisher: ArXiv
+ 
+ > remove discriminative features then, embed a backdoor at the image corner
+
+ > Category: clean labels, blackbox
 
 ## 2018
 ###### 1. [Paper]()
