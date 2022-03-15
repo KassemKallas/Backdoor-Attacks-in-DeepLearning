@@ -24,9 +24,10 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 # Available sources and toolboxes
 
-# Backdoor Attacks on image and video models
+# Backdoor Attacks
+In this section, we will list the backdoor attacks on image and video models as they are the most common in the literature.
 
-# Backdoor Defenses for image and video models
+# Backdoor Defenses
 
 # Benign use of Backdoor attacks
 ## DNN Watermarking
