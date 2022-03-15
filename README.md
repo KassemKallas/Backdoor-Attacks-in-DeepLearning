@@ -37,12 +37,19 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
  
  > A literature review of the existing attacks and exploration of the available defenses. Classifications of attacks and defenses and exploration of benign use of backdoor attacks.
 
-###### A Survey of Neural Trojan Attacks and Defenses in Deep Learning [Paper](https://arxiv.org/pdf/2202.07183)
- > Authors: J Wang, GM Hassan, N Akhtar
+###### Artificial Intelligence Security: Threats and Countermeasures [Paper](https://dl.acm.org/doi/pdf/10.1145/3487890)
+ > Authors: Y Hu, W Kuang, Z Qin, K Li, J Zhang, Y Gao
  
- > Publisher: ArXiv
+ > Publisher: ACM Computing Surveys
  
- > A literature review of the existing attacks and exploration of the available defenses.
+ > Review the challenges and recent research advances for security issues in AI.
+
+###### Security Meets Deep Learning [PhD Dissertation](https://search.proquest.com/openview/b52f04da04e5213385f37eb6ec00cae8/1?pq-origsite=gscholar&cbl=18750&diss=y)
+ > Authors: He, Zecheng
+ 
+ > Publisher: Princeton University
+ 
+ > Review the literature and focus on power grid anomaly detection.
 
 
 
