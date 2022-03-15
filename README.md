@@ -93,14 +93,16 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 # Available sources and toolboxes
 
 # Backdoor Attacks
-In this section, we will list the backdoor attacks on image and video models as they are the most common in the literature.
+In this section, we will list the backdoor attacks on image and video models as they are the most common in the literature. In addition, we will tag each paper by category keywords so that a reader can understand where the work is located on the research map.
 ## 2022
-###### 1. [Paper]()
- > Authors: 
+###### 1. Label-Smoothed Backdoor Attack [Paper](https://arxiv.org/pdf/2202.11203)
+ > Authors: M Peng, Z Xiong, M Sun, P Li
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Label smoothed Backdoor Attack. The true label of the poisoned sample will be changed to the target following a probability distribution. This work is to overcome the over-fitting in the case of poisoned label attacks.
+
+ > Category: clean label, blackbox, control the dataset and the labels
 
 ## 2021
 ###### 1. [Paper]()
