@@ -105,103 +105,102 @@ In this section, we will list the backdoor attacks on image and video models as 
  > Category: clean label, blackbox, control the dataset and the labels
 
 ## 2021
-###### 1. [Paper]()
+###### 1. WaNet--Imperceptible Warping-based Backdoor Attack [Paper](https://arxiv.org/pdf/2102.10369)
+ > Authors: A Nguyen, A Tran 
+ 
+ > Publisher: ArXiv
+ 
+ > Perceptually  invisible  trigger  based  on  image  warping. The invisibility is reached by relying on the difficulty of the humanpsychovisual system  to  detect  smooth  geometric  deformations.
+
+ > Category: poisoned label, blackbox, control the dataset and the labels
+
+###### 2. LIRA: Learnable, Imperceptible and Robust Backdoor Attacks [Paper](http://openaccess.thecvf.com/content/ICCV2021/papers/Doan_LIRA_Learnable_Imperceptible_and_Robust_Backdoor_Attacks_ICCV_2021_paper.pdf)
+ > Authors: K Doan, Y Lao, W Zhao, P Li
+ 
+ > Publisher: IEEE/CVF
+ 
+ > 
+
+ > Category:
+
+
+###### 3. Anti-backdoor learning: Training clean models on poisoned data [Paper]()
  > Authors: 
  
  > Publisher: 
  
  > 
 
-###### 2. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- > 
-
-###### 3. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- > 
-
-###### 4. [Paper]()
+###### 4. Invisible poison: A blackbox clean label backdoor attack to deep neural networks [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 5. [Paper]()
+###### 5. Check your other door! establishing backdoor attacks in the frequency domain [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 6. [Paper]()
+###### 6. Use Procedural Noise to Achieve Backdoor Attack [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 7. [Paper]()
+###### 7. Poison Ink: Robust and Invisible Backdoor Attack [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 8. [Paper]()
+###### 8. AdvDoor: adversarial backdoor attack of deep learning system [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 9. [Paper]()
+###### 9. Backdoor attack in the physical world [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 10. [Paper]()
+###### 10. Defense-resistant backdoor attacks against deep neural networks in outsourced cloud environment [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 11. [Paper]()
+###### 11. Deep feature space trojan attack of neural networks by controlled detoxification [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 12. [Paper]()
+###### 12. A Master Key backdoor for universal impersonation attack against DNN-based face verification [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 13. [Paper]()
+###### 13. DeepPoison: Feature Transfer Based Stealthy Poisoning Attack for DNNs [Paper]()
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 14. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- >
 
 ## 2021
 ###### 1. [Paper]()
