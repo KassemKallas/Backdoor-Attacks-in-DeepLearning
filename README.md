@@ -119,82 +119,75 @@ In this section, we will list the backdoor attacks on image and video models as 
  
  > Publisher: IEEE/CVF
  
- > 
+ > To improve backdoor stealthiness, the medthod regularize the L-norm of the perturbation when optimizing backdoor trigger.
 
- > Category:
+ > Category: poisoned label (the label is one shifted), blackbox, control the dataset and the labels
 
 
-###### 3. Anti-backdoor learning: Training clean models on poisoned data [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- > 
-
-###### 4. Invisible poison: A blackbox clean label backdoor attack to deep neural networks [Paper]()
+###### 3. Invisible poison: A blackbox clean label backdoor attack to deep neural networks [Paper](https://ieeexplore.ieee.org/iel7/9488422/9488423/09488902.pdf)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 5. Check your other door! establishing backdoor attacks in the frequency domain [Paper]()
+###### 4. Check your other door! establishing backdoor attacks in the frequency domain [Paper](https://arxiv.org/pdf/2109.05507)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 6. Use Procedural Noise to Achieve Backdoor Attack [Paper]()
+###### 5. Use Procedural Noise to Achieve Backdoor Attack [Paper](https://ieeexplore.ieee.org/iel7/6287639/9312710/09529206.pdf)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 7. Poison Ink: Robust and Invisible Backdoor Attack [Paper]()
+###### 6. Poison Ink: Robust and Invisible Backdoor Attack [Paper](https://arxiv.org/pdf/2108.02488)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 8. AdvDoor: adversarial backdoor attack of deep learning system [Paper]()
+###### 7. AdvDoor: adversarial backdoor attack of deep learning system [Paper](https://dl.acm.org/doi/pdf/10.1145/3460319.3464809)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 9. Backdoor attack in the physical world [Paper]()
+###### 8. Backdoor attack in the physical world [Paper](https://arxiv.org/pdf/2104.02361)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 10. Defense-resistant backdoor attacks against deep neural networks in outsourced cloud environment [Paper]()
+###### 9. Defense-resistant backdoor attacks against deep neural networks in outsourced cloud environment [Paper](https://ieeexplore.ieee.org/iel7/49/9486979/09450029.pdf)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 11. Deep feature space trojan attack of neural networks by controlled detoxification [Paper]()
+###### 10. Deep feature space trojan attack of neural networks by controlled detoxification [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16201/16008)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 12. A Master Key backdoor for universal impersonation attack against DNN-based face verification [Paper]()
+###### 11. A Master Key backdoor for universal impersonation attack against DNN-based face verification [Paper](https://www.sciencedirect.com/science/article/pii/S0167865521000210)
  > Authors: 
  
  > Publisher: 
  
  >
 
-###### 13. DeepPoison: Feature Transfer Based Stealthy Poisoning Attack for DNNs [Paper]()
+###### 12. DeepPoison: Feature Transfer Based Stealthy Poisoning Attack for DNNs [Paper](https://ieeexplore.ieee.org/iel7/8920/4358609/09359658.pdf)
  > Authors: 
  
  > Publisher: 
