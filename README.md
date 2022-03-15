@@ -30,6 +30,22 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
  > A literature review of the existing attacks and exploration of the available defenses.
 
 ## 2021
+###### An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences [Paper](https://arxiv.org/pdf/2111.08429)
+ > Authors: W Guo, B Tondi, M Barni
+ 
+ > Publisher: ArXiv
+ 
+ > A literature review of the existing attacks and exploration of the available defenses. Classifications of attacks and defenses and exploration of benign use of backdoor attacks.
+
+###### A Survey of Neural Trojan Attacks and Defenses in Deep Learning [Paper](https://arxiv.org/pdf/2202.07183)
+ > Authors: J Wang, GM Hassan, N Akhtar
+ 
+ > Publisher: ArXiv
+ 
+ > A literature review of the existing attacks and exploration of the available defenses.
+
+
+
 
 ## 2020
 
