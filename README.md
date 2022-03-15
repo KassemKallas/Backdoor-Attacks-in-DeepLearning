@@ -21,15 +21,75 @@ So, under each paper, we will try to classify the categories selected by the aut
 Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 # Surveys on Backdoor attacks and defenses
+## 2022
+
+## 2021
+
+## 2020
+
+## 2019
+
+## 2018
+
+## 2017
+
 
 # Available sources and toolboxes
 
 # Backdoor Attacks
 In this section, we will list the backdoor attacks on image and video models as they are the most common in the literature.
+## 2022
+
+## 2021
+
+## 2020
+
+## 2019
+
+## 2018
+
+## 2017
+
 
 # Backdoor Defenses
+
+## 2022
+
+## 2021
+
+## 2020
+
+## 2019
+
+## 2018
+
+## 2017
+
 
 # Benign use of Backdoor attacks
 ## DNN Watermarking
 
+## 2022
+
+## 2021
+
+## 2020
+
+## 2019
+
+## 2018
+
+## 2017
+
 ## Adversarial examples detection
+## 2022
+
+## 2021
+
+## 2020
+
+## 2019
+
+## 2018
+
+## 2017
