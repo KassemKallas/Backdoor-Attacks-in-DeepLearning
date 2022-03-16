@@ -23,7 +23,7 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 ## Index
 - [AI-Backdoor](#ai-backdoor)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
-- [Surveys on Backdoor attacks and defenses](#surveys-on-backdoor-attacks-and-defenses)
+- [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-on-backdoor-attacks-and-defenses)
   * [2022](#2022)
   * [2021](#2021)
   * [2020](#2020)
@@ -71,7 +71,7 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 
 
-# Surveys on Backdoor attacks and defenses
+# Surveys and Thesis on Backdoor Attacks and Defenses
 ## 2022
 ###### 1. A Survey of Neural Trojan Attacks and Defenses in Deep Learning [Paper](https://arxiv.org/pdf/2202.07183)
  > Authors: J Wang, GM Hassan, N Akhtar
