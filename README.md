@@ -21,9 +21,6 @@ So, under each paper, we will try to classify the categories selected by the aut
 Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 ## Index
-- [Deep Reinforcement Learning Backdoors](#deep-reinforcement-learning-backdoors)
-  * [TBA](#tba)
-- [Natural Language Processing Backdoors](#natural-language-processing-backdoors)
 - [AI-Backdoor](#ai-backdoor)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
