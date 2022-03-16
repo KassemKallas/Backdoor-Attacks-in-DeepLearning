@@ -366,20 +366,25 @@ In this section, we will list the backdoor attacks on image and video models as 
  > Category: clean labels, blackbox
 
 ## 2018
-###### 1. [Paper]()
- > Authors: 
+###### 1. Poison frogs! targeted clean-label poisoning attacks on neural networks [Paper](https://proceedings.neurips.cc/paper/2018/file/22722a343513ed45f14905eb07621686-Paper.pdf)
+ > Authors: Shafahi, Ali, W. Ronny Huang, Mahyar Najibi, Octavian Suciu, Christoph Studer, Tudor Dumitras, and Tom Goldstein
  
- > Publisher: 
+ > Publisher: Neurips proceedings Advances in neural information processing systems
  
- > 
+ > Feature collision attack. Move decision boundaries in transfer learning setup in a way to make a target class x_t which is originally belongs to class c to look like the features in class t. this is done by generating a poisoned image x_tilda starting from a legitimate image x' from t. x_tilda is close to target instance x_t but has features of x'in t (feature coliision) and thus, the target instance will not be classified as t at test time and not c as it is the original class.
 
-###### 2. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- >
+ > Category: clean labels, blackbox, transfer learning
 
+
+###### 2. Are you tampering with my data? [Paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Alberti_Are_You_Tampering_With_My_Data_ECCVW_2018_paper.pdf)
+ > Authors: Alberti, Michele, Vinaychandran Pondenkandath, Marcel Wursch, Manuel Bouillon, Mathias Seuret, Rolf Ingold, and Marcus Liwicki
+ 
+ > Publisher: Proceedings of the European Conference on Computer Vision (ECCV) Workshops
+ 
+ > The attacker implements a one-pixel modification to all  the  images  of  the  target  class in  the  training  dataset
+
+ > Category: clean labels, control dataset, blackbox
+ 
 ## 2017
 ###### 1. [Paper]()
  > Authors: 
