@@ -43,21 +43,10 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
   * [2017](#2017-1)
 - [Benign use of Backdoor attacks](#benign-use-of-backdoor-attacks)
   * [DNN Watermarking](#dnn-watermarking)
-          * [2022](#2022-3)
-          * [2021](#2021-3)
-          * [2020](#2020-3)
-          * [2019](#2019-2)
-          * [2018](#2018-2)
-          * [2017](#2017-2)
-  * [Adversarial examples detection](#adversarial-examples-detection)
-          * [2022](#2022-4)
-          * [2021](#2021-4)
-          * [2020](#2020-4)
-          * [2019](#2019-3)
-          * [2018](#2018-3)
-          * [2017](#2017-3)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+  * [Adversarial examples detection](#adversarial-examples-detection)
+
+
 
 # Surveys on Backdoor attacks and defenses
 ## 2022
