@@ -793,12 +793,32 @@ Backdoor defenses could work on one or more of the following three levels: the d
 ## 2022
 
 ## 2021
+###### 1. DNN watermarking: Four challenges and a funeral [Paper](https://dl.acm.org/doi/pdf/10.1145/3437880.3460399)
+ > Authors: Barni, Mauro, Fernando Pérez-González, and Benedetta Tondi
+ 
+ > Publisher: ACM Workshop on Information Hiding and Multimedia Security
+ 
+ > Discuss dissimilarities between multimedia watermarking and DNN watermarking to create a DNN-specific taxonomy of watermarking techniques
+
+###### 2. A survey of deep neural network watermarking techniques [Paper](https://www.sciencedirect.com/science/article/pii/S092523122101095X)
+ > Authors: Li, Yue, Hongxia Wang, and Mauro Barni
+ 
+ > Publisher: Neurocomputing
+ 
+ > Overview the most recent advances in DNN watermarking, by paying attention to cast them into the bulk of watermarking theory developed
+during the last two decades, while at the same time highlighting the new challenges and opportunities characterising DNN watermarking.
 
 ## 2020
 
 ## 2019
 
 ## 2018
+###### 1. Turning your weakness into a strength: Watermarking deep neural networks by backdooring [Paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-adi.pdf)
+ > Authors: Adi, Yossi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet
+ 
+ > Publisher: USENIX Security Symposium
+ 
+ > Watermarking Deep Neural Networks in a blackbox setting
 
 ## 2017
 
