@@ -386,33 +386,41 @@ In this section, we will list the backdoor attacks on image and video models as 
  > Category: clean labels, control dataset, blackbox
  
 ## 2017
-###### 1. [Paper]()
- > Authors: 
+###### 1. Neural  trojans [Paper](https://ieeexplore.ieee.org/iel7/8118206/8119172/08119189.pdf)
+ > Authors: Liu, Yuntao, Yang Xie, and Ankur Srivastava
  
- > Publisher: 
+ > Publisher: IEEE International Conference on Computer Design (ICCD)
  
- > 
+ > From the first works in Backdoor attacks. Inhject computer generated fonts to MNIST as a backdoor to cause misclassification
 
-###### 2. [Paper]()
- > Authors: 
- 
- > Publisher: 
- 
- > 
+ > Category: poisoned labels, control dataset and labels, blackbox
 
-###### 3. [Paper]()
- > Authors: 
+###### 2. Targeted  backdoor attacks on deep learning systems using data poisoning [Paper](https://arxiv.org/pdf/1712.05526.pdf?ref=https://githubhelp.com)
+ > Authors: Chen, Xinyun, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Among the first backdoor attacks. They design a poisoning function using pixel blending that weighted sum the image and the trigger based on binary mask.
 
-###### 4. [Paper]()
- > Authors: 
+ > Category: poisoned labels, control dataset and labels, blackbox
+
+###### 3. Universal adversarial perturbations [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Moosavi-Dezfooli_Universal_Adversarial_Perturbations_CVPR_2017_paper.pdf)
+ > Authors: Moosavi-Dezfooli, Seyed-Mohsen, Alhussein Fawzi, Omar Fawzi, and Pascal Frossard
  
- > Publisher: 
+ > Publisher: IEEE conference on computer vision and pattern recognition
  
- > 
+ > Based on a surrogate model and dataset, the universal adversarial perturbation is generated iteratively by minimizing the L2 norm of the trigger.
+
+ > Category: poisoned labels, control dataset and labels, blackbox, surrogate model and dataset
+
+###### 4. Trojaning attack on neural networks [Paper](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
+ > Authors: Liu, Yingqi, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, Juan Zhai, Weihang Wang, and Xiangyu Zhang
+ 
+ > Publisher: Purdue University report, and Network  and  Distributed  System  Security  Symposium,  NDSS
+ 
+ > Explore the possibility of injecting a backdoor into a pre-trained model via fine-tuning. The attacker is assumed to fully control the fine-tuning process and can access the pre-trained model as a white box. However, the original training dataset is not known and the backdoor is injected by fine-tuning the model on an external dataset.
+
+ > Category: whitebox, fine-tuning
 
 # Backdoor Defenses
 
