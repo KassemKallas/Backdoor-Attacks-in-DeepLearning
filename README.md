@@ -56,6 +56,11 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
   * [2018](#2018-1)
   * [2017](#2017-1)
 
+- [Deep Reinforcement Learning Backdoors](#deep-reinforcement-learning-backdoors)
+
+- [Natural Language Processing Backdoors](#natural-language-processing-backdoors)
+
+
 # Available sources and toolboxes
 * [TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors](https://github.com/ain-soph/trojanzoo)
  > TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning.
