@@ -548,139 +548,139 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
 ## 2020
 ###### 1. Sentinet: Detecting localized universal attacks against deep learning systems [Paper](https://ieeexplore.ieee.org/iel7/9283745/9283819/09283822.pdf)
- > Authors: 
+ > Authors: Chou, Edward, Florian Tramer, and Giancarlo Pellegrino
  
- > Publisher: 
+ > Publisher: IEEE Security and Privacy Workshops (SPW)
  
- > 
+ > SentiNet, GradCAM, image difference between the saliency map of target class and the saliency map of estimated ground truth. It requires 3 times larger test time
 
- > Category: 
+ > Category: Data level defense
 
 ###### 2. Februus: Input purification defense against trojan attacks on deep neural network systems [Paper](https://dl.acm.org/doi/pdf/10.1145/3427228.3427264)
- > Authors: 
+ > Authors: Doan, Bao Gia, Ehsan Abbasnejad, and Damith C. Ranasinghe
  
- > Publisher: 
+ > Publisher: Computer Security Applications Conference
  
- > 
+ > Februus, remove trigger from input image using GradCAM and naturalize the removed regions using WGAN-GP
 
- > Category: 
+ > Category: Data level defense
 
 ###### 3. Backdoor suppression in neural networks using input fuzzing and majority voting [Paper](https://ieeexplore.ieee.org/iel7/6221038/6461917/08963957.pdf)
- > Authors: 
+ > Authors: Sarkar, Esha, Yousif Alkindi, and Michail Maniatakos
  
- > Publisher: 
+ > Publisher: IEEE Design & Test
  
- > 
+ > Removal(.) function that adds random noise to images to remove backdoor trigger. many version of noise added to one image and the final decision is the majority voting over the versions
 
- > Category: 
+ > Category: Data level defense, input modification
 
 ###### 4. Detecting backdoor attacks via class difference in deep neural networks [Paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09233317.pdf)
- > Authors: 
+ > Authors: Kwon, Hyun
  
- > Publisher: 
+ > Publisher: IEEE Access
  
- > 
+ > Build a second model based on benign data. if the two models disagree on a sample, then the sample is poisoned
 
- > Category: 
+ > Category: Data level defense
 
 ###### 5. Detecting Backdoors in Neural Networks Using Novel Feature-Based Anomaly Detection [Paper](https://arxiv.org/pdf/2011.02526)
- > Authors: 
+ > Authors: Fu, Hao, Akshaj Kumar Veldanda, Prashanth Krishnamurthy, Siddharth Garg, and Farshad Khorrami
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Separate feature from classification part of the network. Build a surrogate classifier from benign features, compare the original and the surrogate classifier results, if they disagree the sample is considered outlier
 
- > Category: 
+ > Category: Data level defense, White-box model
 
 ###### 6. NNoculation: Broad spectrum and targeted treatment of backdoored DNNs [Paper](https://arxiv.org/pdf/2002.08313)
- > Authors: 
+ > Authors: Veldanda, Akshaj Kumar, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Apply data augmentation by adding random gaussian noise to benign dataset during fine-tuning. Construct a model on benign data and look for disagreement with the poisoned model. uses CycleGAN to reconstruct the trigger
 
- > Category: 
+ > Category: model level defense, White-box model
 
 ###### 7. Confoc: Content-focus protection against trojan attacks on neural networks [Paper](https://arxiv.org/pdf/2007.00711)
- > Authors: 
+ > Authors: Villarreal-Vasquez, Miguel, and Bharat Bhargava
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Augment benign dataset set by means of image style transfer to help the model forgetting trigger features
 
- > Category: 
+ > Category: model level defense
 
 ###### 8. Systematic evaluation of backdoor data poisoning attacks on image classifiers [Paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w47/Truong_Systematic_Evaluation_of_Backdoor_Data_Poisoning_Attacks_on_Image_Classifiers_CVPRW_2020_paper.pdf)
- > Authors: 
+ > Authors: Truong, Loc, Chace Jones, Brian Hutchinson, Andrew August, Brenda Praggastis, Robert Jasper, Nicole Nichols, and Aaron Tuor
  
- > Publisher: 
+ > Publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
  
- > 
+ > Study the effectiveness of fine-tuning on backdoor removal. The impact of several factors on the success of the backdoor attacks, including the triggering  pattern used by the attacker and the adoption of regularization techniques by the defender, are studied.
 
- > Category: 
+ > Category: model level defense
 
 ###### 9. Detection of backdoors in trained classifiers without access to the training set [Paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09296553.pdf)
- > Authors: 
+ > Authors: Xiang, Zhen, David J. Miller, and George Kesidis
  
- > Publisher: 
+ > Publisher: IEEE Transactions on Neural Networks and Learning Systems
  
- > 
+ > Backdoor detetcion based on hypothesis testing that relies on maximum achievable misclassification fraction statistics
 
- > Category: 
+ > Category: model level defense
 
 ###### 10. Gangsweep: Sweep out neural backdoors by gan [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413546)
- > Authors: 
+ > Authors: Zhu, Liuwan, Rui Ning, Cong Wang, Chunsheng Xin, and Hongyi Wu
  
- > Publisher: 
+ > Publisher: ACM International Conference on Multimedia
  
- > 
+ > Uses GAN to reconstruct the trigger
 
- > Category: 
+ > Category: model level defense, black-box model
 
 ###### 11. Universal litmus patterns: Revealing backdoor attacks in cnns [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kolouri_Universal_Litmus_Patterns_Revealing_Backdoor_Attacks_in_CNNs_CVPR_2020_paper.pdf)
- > Authors: 
+ > Authors: Kolouri, Soheil, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann
  
- > Publisher: 
+ > Publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition
  
- > 
+ > Compute universal pattern to reveal the presence of backdoor
 
- > Category: 
+ > Category: model level defense, blackbox model, meta classification
 
 ###### 12. Exposing backdoors in robust machine learning models [Paper](https://arxiv.org/pdf/2003.00865.pdf?ref=https://githubhelp.com)
- > Authors: 
+ > Authors: Soremekun, Ezekiel, Sakshi Udeshi, and Sudipta Chattopadhyay
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Feature clustering on training data
 
- > Category: 
+ > Category: Training dataset level defense
 
 ###### 13. Deep k-NN Defense Against Clean-Label Data Poisoning Attacks [Paper](https://arxiv.org/pdf/1909.13374)
- > Authors: 
+ > Authors: Peri, Neehar, Neal Gupta, W. Ronny Huang, Liam Fowl, Chen Zhu, Soheil Feizi, Tom Goldstein, and John P. Dickerson
  
- > Publisher: 
+ > Publisher: European Conference on Computer Vision
  
- > 
+ > In clean label setting, nearby samples in feature space space could have different labels due to backdoor. Decide if sample is poisoned based on majority vote of labels in the neighborhood
 
- > Category: 
+ > Category: Training dataset level defense, White-box
 
 ###### 14. Robust anomaly detection and backdoor attack detection via differential privacy [Paper](https://arxiv.org/pdf/1911.07116.pdf?ref=https://githubhelp.com)
- > Authors: 
+ > Authors: Du, Min, Ruoxi Jia, and Dawn Song
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Theoretical and empirical proof that differential privacy help from overfitting over atypical examples.
 
- > Category: 
+ > Category: Training dataset level defense
 
 ###### 15. Disabling backdoor and identifying poison data by using knowledge distillation in backdoor attacks on deep neural networks [Paper](https://dl.acm.org/doi/pdf/10.1145/3411508.3421375)
- > Authors: 
+ > Authors: Yoshida, Kota, and Takeshi Fujino
  
- > Publisher: 
+ > Publisher: ACM Workshop on Artificial Intelligence and Security
  
- > 
+ > Distilling clean knowledge from backdoored model
 
- > Category: 
+ > Category: Training dataset level defense
 
 ## 2019
 ###### 1. Neural cleanse: Identifying and mitigating backdoor attacks in neural networks [Paper](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835365.pdf)
