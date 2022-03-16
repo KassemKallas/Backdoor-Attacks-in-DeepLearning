@@ -778,30 +778,29 @@ Backdoor defenses could work on one or more of the following three levels: the d
  > Category: model level defense, fine-tuning
 
 
-# Benign use of Backdoor attacks
-## DNN Watermarking
+# Benign use of Backdoor attacks: DNN Watermarking
 
-###### 2022
+## 2022
 
-###### 2021
+## 2021
 
-###### 2020
+## 2020
 
-###### 2019
+## 2019
 
-###### 2018
+## 2018
 
-###### 2017
+## 2017
 
-## Adversarial examples detection
-###### 2022
+# Benign use of Backdoor attacks: Adversarial examples detection
+## 2022
 
-###### 2021
+## 2021
 
-###### 2020
+## 2020
 
-###### 2019
+## 2019
 
-###### 2018
+## 2018
 
-###### 2017
+## 2017
