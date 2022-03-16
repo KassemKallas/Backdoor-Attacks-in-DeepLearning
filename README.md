@@ -22,11 +22,11 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 ## Index
 - [AI-Backdoor](#ai-backdoor)
+- [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Surveys on Backdoor attacks and defenses](#surveys-on-backdoor-attacks-and-defenses)
   * [2022](#2022)
   * [2021](#2021)
   * [2020](#2020)
-- [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Backdoor Attacks](#backdoor-attacks)
   * [2022](#2022-1)
   * [2021](#2021-1)
@@ -45,6 +45,19 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
   * [DNN Watermarking](#dnn-watermarking)
 
   * [Adversarial examples detection](#adversarial-examples-detection)
+
+# Available sources and toolboxes
+* [TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors](https://github.com/ain-soph/trojanzoo)
+ > TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning.
+
+* [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
+ > BackdoorBox is a Python toolbox for backdoor learning research. Specifically, BackdoorBox contains modules for conducting backdoor attacks and backdoor  defenses. This project is still under development and therefore there is no user manual yet.
+
+* [Backdoors 101](https://github.com/ebagdasa/backdoors101)
+ > Backdoors 101 is a PyTorch framework for state-of-the-art backdoor defenses and attacks on deep learning models. It includes real-world datasets, centralized and federated learning, and supports various attack vectors.
+
+* [Adversarial Robustness Toolbox](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/guide/setup.html)
+
 
 
 
@@ -115,11 +128,6 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
  
  > Survey that categorize existing backdoor attacks and defenses based on their characteristics.
 
-
-
-
-# Available sources and toolboxes
-TBA
 
 # Backdoor Attacks
 In this section, we will list the backdoor attacks on image and video models as they are the most common in the literature. In addition, we will tag each paper by category keywords so that a reader can understand where the work is located on the research map.
