@@ -23,7 +23,7 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 ## Index
 - [AI-Backdoor](#ai-backdoor)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
-- [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-on-backdoor-attacks-and-defenses)
+- [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
   * [2022](#2022)
   * [2021](#2021)
   * [2020](#2020)
