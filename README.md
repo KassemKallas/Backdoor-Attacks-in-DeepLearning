@@ -423,18 +423,324 @@ In this section, we will list the backdoor attacks on image and video models as 
  > Category: whitebox, fine-tuning
 
 # Backdoor Defenses
+Backdoor defenses could work on one or more of the following three levels: the data, the model and the training data.
 
 ## 2022
+###### 1.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
 
 ## 2021
+###### 1.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 2.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 3.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 4.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 5.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 6.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 7.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 8.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 9.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+
 
 ## 2020
+###### 1.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 2.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 3.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 4.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 5.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 6.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 7.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 8.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 9.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 10.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 11.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 12.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 13.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 14.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 15.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
 
 ## 2019
+###### 1.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 2.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 3.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 4.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 5.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 6.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+###### 7.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
+
 
 ## 2018
+###### 1.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
+
 
 ## 2017
+###### 1.  [Paper]()
+ > Authors: 
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: 
 
 
 # Benign use of Backdoor attacks
