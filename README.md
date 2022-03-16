@@ -426,17 +426,17 @@ In this section, we will list the backdoor attacks on image and video models as 
 Backdoor defenses could work on one or more of the following three levels: the data, the model and the training data.
 
 ## 2022
-###### 1.  [Paper]()
- > Authors: 
+###### 1. Adversarial Fine-tuning for Backdoor Defense: Connect Adversarial Examples to Triggered Samples [Paper](https://arxiv.org/pdf/2202.06312)
+ > Authors: Mu, Bingxu, Le Wang, and Zhenxing Niu
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Erase the backdoor trigger from the model while retaining the performance of the model on clean samples
 
- > Category: 
+ > Category: model level defense, fine-turning
 
 ## 2021
-###### 1.  [Paper]()
+###### 1. Neural attention distillation: Erasing backdoor triggers from deep neural networks [Paper](https://arxiv.org/pdf/2101.05930.pdf?ref=https://githubhelp.com)
  > Authors: 
  
  > Publisher: 
@@ -445,7 +445,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 2.  [Paper]()
+###### 2. Adversarial neuron pruning purifies backdoored deep models [Paper](https://proceedings.neurips.cc/paper/2021/file/8cbe9ce23f42628c98f80fa0fac8b19a-Paper.pdf)
  > Authors: 
  
  > Publisher: 
@@ -454,7 +454,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 3.  [Paper]()
+###### 3. Detecting Backdoor in Deep Neural Networks via Intentional Adversarial Perturbations [Paper](https://arxiv.org/pdf/2105.14259)
  > Authors: 
  
  > Publisher: 
@@ -463,7 +463,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 4.  [Paper]()
+###### 4. Boundary augment: A data augment method to defend poison attack [Paper](https://scholar.google.com/scholar?output=instlink&q=info:5o_b0ZSyIFgJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2021&as_yhi=2021&scillfp=2463025849653391467&oi=lle)
  > Authors: 
  
  > Publisher: 
@@ -472,7 +472,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 5.  [Paper]()
+###### 5. Deepsweep: An evaluation framework for mitigating dnn backdoor attacks using data augmentation [Paper](https://dl.acm.org/doi/pdf/10.1145/3433210.3453108)
  > Authors: 
  
  > Publisher: 
@@ -481,7 +481,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 6.  [Paper]()
+###### 6. Detecting scene-plausible perceptible backdoors in trained dnns without access to the training set [Paper](https://scholar.google.com/scholar?output=instlink&q=info:TEVmgXii7iQJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=9902495154299535680&oi=lle)
  > Authors: 
  
  > Publisher: 
@@ -490,7 +490,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 7.  [Paper]()
+###### 7. Detecting ai trojans using meta neural analysis [Paper](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519467.pdf)
  > Authors: 
  
  > Publisher: 
@@ -499,7 +499,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 8.  [Paper]()
+###### 8. Demon in the Variant: Statistical Analysis of {DNNs} for Robust Backdoor Contamination Detection [Paper](https://www.usenix.org/system/files/sec21-tang-di.pdf)
  > Authors: 
  
  > Publisher: 
@@ -508,7 +508,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 9.  [Paper]()
+###### 9. De-pois: An attack-agnostic defense against data poisoning attacks [Paper](https://ieeexplore.ieee.org/iel7/10206/4358835/09431105.pdf)
  > Authors: 
  
  > Publisher: 
@@ -520,7 +520,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
 
 ## 2020
-###### 1.  [Paper]()
+###### 1. Sentinet: Detecting localized universal attacks against deep learning systems [Paper](https://ieeexplore.ieee.org/iel7/9283745/9283819/09283822.pdf)
  > Authors: 
  
  > Publisher: 
@@ -529,7 +529,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 2.  [Paper]()
+###### 2. Februus: Input purification defense against trojan attacks on deep neural network systems [Paper](https://dl.acm.org/doi/pdf/10.1145/3427228.3427264)
  > Authors: 
  
  > Publisher: 
@@ -538,7 +538,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 3.  [Paper]()
+###### 3. Backdoor suppression in neural networks using input fuzzing and majority voting [Paper](https://ieeexplore.ieee.org/iel7/6221038/6461917/08963957.pdf)
  > Authors: 
  
  > Publisher: 
@@ -547,7 +547,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 4.  [Paper]()
+###### 4. Detecting backdoor attacks via class difference in deep neural networks [Paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09233317.pdf)
  > Authors: 
  
  > Publisher: 
@@ -556,7 +556,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 5.  [Paper]()
+###### 5. Detecting Backdoors in Neural Networks Using Novel Feature-Based Anomaly Detection [Paper](https://arxiv.org/pdf/2011.02526)
  > Authors: 
  
  > Publisher: 
@@ -565,7 +565,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 6.  [Paper]()
+###### 6. NNoculation: Broad spectrum and targeted treatment of backdoored DNNs [Paper](https://arxiv.org/pdf/2002.08313)
  > Authors: 
  
  > Publisher: 
@@ -574,7 +574,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 7.  [Paper]()
+###### 7. Confoc: Content-focus protection against trojan attacks on neural networks [Paper](https://arxiv.org/pdf/2007.00711)
  > Authors: 
  
  > Publisher: 
@@ -583,7 +583,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 8.  [Paper]()
+###### 8. Systematic evaluation of backdoor data poisoning attacks on image classifiers [Paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w47/Truong_Systematic_Evaluation_of_Backdoor_Data_Poisoning_Attacks_on_Image_Classifiers_CVPRW_2020_paper.pdf)
  > Authors: 
  
  > Publisher: 
@@ -592,7 +592,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 9.  [Paper]()
+###### 9. Detection of backdoors in trained classifiers without access to the training set [Paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09296553.pdf)
  > Authors: 
  
  > Publisher: 
@@ -601,7 +601,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 10.  [Paper]()
+###### 10. Gangsweep: Sweep out neural backdoors by gan [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413546)
  > Authors: 
  
  > Publisher: 
@@ -610,7 +610,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 11.  [Paper]()
+###### 11. Universal litmus patterns: Revealing backdoor attacks in cnns [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kolouri_Universal_Litmus_Patterns_Revealing_Backdoor_Attacks_in_CNNs_CVPR_2020_paper.pdf)
  > Authors: 
  
  > Publisher: 
@@ -619,7 +619,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 12.  [Paper]()
+###### 12. Exposing backdoors in robust machine learning models [Paper](https://arxiv.org/pdf/2003.00865.pdf?ref=https://githubhelp.com)
  > Authors: 
  
  > Publisher: 
@@ -628,7 +628,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 13.  [Paper]()
+###### 13. Deep k-NN Defense Against Clean-Label Data Poisoning Attacks [Paper](https://arxiv.org/pdf/1909.13374)
  > Authors: 
  
  > Publisher: 
@@ -637,7 +637,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 14.  [Paper]()
+###### 14. Robust anomaly detection and backdoor attack detection via differential privacy [Paper](https://arxiv.org/pdf/1911.07116.pdf?ref=https://githubhelp.com)
  > Authors: 
  
  > Publisher: 
@@ -646,7 +646,7 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
  > Category: 
 
-###### 15.  [Paper]()
+###### 15. Disabling backdoor and identifying poison data by using knowledge distillation in backdoor attacks on deep neural networks [Paper](https://dl.acm.org/doi/pdf/10.1145/3411508.3421375)
  > Authors: 
  
  > Publisher: 
