@@ -206,11 +206,11 @@ In this section, we will list the backdoor attacks on image and video models as 
 ###### 2. Clean-Annotation Backdoor Attack against Lane Detection Systems in the Wild [Paper](https://arxiv.org/pdf/2203.00858.pdf)
  > Authors: Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Backdoor attack against the lane detection systems in the physical world. Semantic trigger design, which leverages the traffic cones with specific poses and locations to activate the backdoor. Such trigger can be easily realized under the physical setting, and looks very natural not to be detected.
 
- > Category: clean label, blackbox, control the dataset and the labels
+ > Category: clean label, blackbox, control the dataset, physical domain attacks,autonomous vehicules
 
 ## 2021
 ###### 1. WaNet--Imperceptible Warping-based Backdoor Attack [Paper](https://arxiv.org/pdf/2102.10369)
@@ -852,6 +852,12 @@ Backdoor defenses could work on one or more of the following three levels: the d
 # Benign use of Backdoor attacks: DNN Watermarking
 
 ## 2022
+###### 1. Method for copyright protection of deep neural networks using digital watermarking [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12084/1208412/Method-for-copyright-protection-of-deep-neural-networks-using-digital/10.1117/12.2623444.short)
+ > Authors: Yuliya Vybornova
+ 
+ > Publisher: International Conference on Machine Vision
+ 
+ > The main idea is to embed a digital watermark into a pretrained model by finetuning the final layer weights. A deep neural network is retrained on a unique trigger set formed by synthesizing pseudo-holographic images and embedding them into raster images of the original dataset.
 
 ## 2021
 ###### 1. DNN watermarking: Four challenges and a funeral [Paper](https://dl.acm.org/doi/pdf/10.1145/3437880.3460399)
