@@ -103,6 +103,48 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
  > Review the literature and focus on power grid anomaly detection.
 
 
+###### 4. Detecting Backdoored Neural Networks with Structured Adversarial Attacks [Master Thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-90.pdf)
+ > Authors: Charles Yang
+ 
+ > Publisher: University of California at Berkeley
+
+###### 5. Geometric Properties of Backdoored Neural Networks [Master Thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-78.pdf)
+ > Authors: Dominic Carrano
+ 
+ > Publisher: University of California at Berkeley
+
+###### 6. Backdoor defenses [Master Thesis](https://repositum.tuwien.at/bitstream/20.500.12708/18831/1/Milakovic%20Andrea%20-%202021%20-%20Backdoor%20defenses.pdf)
+ > Authors: Andrea Milakovic
+ 
+ > Publisher: Technischen Universität Wien
+
+###### 7. Backdoor Attacks in Neural Networks [Master Thesis](https://repository.tudelft.nl/islandora/object/uuid:b830b4a2-b700-4c93-8d1d-88dc0191c468?collection=education)
+ > Authors: Stefanos Koffas
+ 
+ > Publisher: TU Delft
+
+###### 8. Understanding and Mitigating the Impact of Backdooring Attacks on Deep Neural Networks [PhD Thesis](https://www.proquest.com/docview/2555308945?pq-origsite=gscholar&fromopenview=true)
+ > Authors: Kang Liu
+ 
+ > Publisher: New York University
+
+###### 9. Countermeasures Against Backdoor, Data Poisoning, and Adversarial Attacks [PhD Thesis](https://www.proquest.com/docview/2572565404)
+ > Authors: Henry Daniel
+ 
+ > Publisher: University of Texas at San Antonio
+
+###### 10. Towards Robust Image Classification with Deep Learning and Real-Time DNN Inference on Mobile [PhD Thesis](https://www.proquest.com/docview/2572970976)
+ > Authors: Pu Zhao
+ 
+ > Publisher: Northeastern University
+
+###### 11. Toward Robust and Communication Efficient Distributed Machine Learning [PhD Thesis](https://www.proquest.com/docview/2572595657)
+ > Authors: Hongyi Wang
+ 
+ > Publisher: University of Wisconsin–Madison
+
+
+
 ## 2020
 ###### 1. Machine learning security: Threats, countermeasures, and evaluations [Paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09064510.pdf)
  > Authors: M Xue, C Yuan, H Wu, Y Zhang, W Liu
@@ -137,6 +179,11 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
  > Publisher: ArXiv
  
  > Survey that categorize existing backdoor attacks and defenses based on their characteristics.
+
+###### 6. BACKDOOR ATTACKS ON FACIAL RECONGITION IN THE PHYSICAL WORLD [Master Thesis](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
+ > Authors: EMILY WILLSON
+ 
+ > Publisher: The University of Chicago
 
 
 # Backdoor Attacks
