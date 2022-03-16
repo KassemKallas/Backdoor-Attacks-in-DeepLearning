@@ -656,91 +656,91 @@ Backdoor defenses could work on one or more of the following three levels: the d
  > Category: 
 
 ## 2019
-###### 1.  [Paper]()
- > Authors: 
+###### 1. Neural cleanse: Identifying and mitigating backdoor attacks in neural networks [Paper](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835365.pdf)
+ > Authors: Wang, Bolun, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, and Ben Y. Zhao
  
- > Publisher: 
+ > Publisher: IEEE Symposium on Security and Privacy (SP)
  
- > 
+ > A source-agnostic backdoor creates a shortcut to the target class by exploiting the sparsity of the input space. 
 
- > Category: 
+ > Category: model level defense
 
-###### 2.  [Paper]()
- > Authors: 
+###### 2. Strip: A defence against trojan attacks on deep neural networks [Paper](https://dl.acm.org/doi/pdf/10.1145/3359789.3359790)
+ > Authors: Gao, Yansong, Change Xu, Derui Wang, Shiping Chen, Damith C. Ranasinghe, and Surya Nepal
  
- > Publisher: 
+ > Publisher: Annual Computer Security Applications Conference
  
- > 
+ > Blending input with set of benign images. If poisoned is blended it will go to target class, if benign is blended it will be classified randomly.
 
- > Category: 
+ > Category: Data level defense
 
-###### 3.  [Paper]()
- > Authors: 
+###### 3. Tabor: A highly accurate approach to inspecting and restoring trojan backdoors in ai systems [Paper](https://arxiv.org/pdf/1908.01763.pdf?ref=https://githubhelp.com)
+ > Authors: Guo, Wenbo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Add regularization to Neural-Cleanse method to improve the quality of the reverse engineered trigger
 
- > Category: 
+ > Category: model level defense
 
-###### 4.  [Paper]()
- > Authors: 
+###### 4. Abs: Scanning neural networks for back-doors by artificial brain stimulation [Paper](https://dl.acm.org/doi/pdf/10.1145/3319535.3363216?ref=https://githubhelp.com)
+ > Authors: Liu, Yingqi, Wen-Chuan Lee, Guanhong Tao, Shiqing Ma, Yousra Aafer, and Xiangyu Zhang
  
- > Publisher: 
+ > Publisher: ACM SIGSAC Conference on Computer and Communications Security
  
- > 
+ > Stimulates neurons and see how the output changes. if a neuron raise activation for particular class no matter the input, it is compromised. Reverse engineer the trigger.
 
- > Category: 
+ > Category: model level defense
 
-###### 5.  [Paper]()
- > Authors: 
+###### 5. DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks [Paper](http://www.aceslab.org/sites/default/files/DeepInspect.pdf)
+ > Authors: Chen, Huili, Cheng Fu, Jishen Zhao, and Farinaz Koushanfar
  
- > Publisher: 
+ > Publisher: IJCAI
  
- > 
+ > Black-box. Trigger the model and uses c-GAN to try to construct the trigger
 
- > Category: 
+ > Category: model level defense
 
-###### 6.  [Paper]()
- > Authors: 
+###### 6. Defending neural backdoors via generative distribution modeling [Paper](https://proceedings.neurips.cc/paper/2019/file/78211247db84d96acf4e00092a7fba80-Paper.pdf)
+ > Authors: iao, Ximing, Yukun Yang, and Hai Li
  
- > Publisher: 
+ > Publisher: Advances in neural information processing systems 
  
- > 
+ > Trigger reconstruction that can effectively work with multiple triggers 
 
- > Category: 
+ > Category: model level defense
 
-###### 7.  [Paper]()
- > Authors: 
+###### 7. A benchmark study of backdoor data poisoning defenses for deep neural network classifiers and a novel defense [Paper](https://ieeexplore.ieee.org/iel7/8911118/8918685/08918908.pdf)
+ > Authors: Xiang, Zhen, David J. Miller, and George Kesidis
  
- > Publisher: 
+ > Publisher: International Workshop on Machine Learning for Signal Processing (MLSP)
  
- > 
+ > Uses Guassian Mixture Model for clustering instead of k-means to determine automatically the number of clusters belongs to one class. If more than one found, it assumes that there is a backdoor
 
- > Category: 
+ > Category: Training dataset level defense
 
 
 
 ## 2018
-###### 1.  [Paper]()
- > Authors: 
+###### 1. Fine-pruning: Defending against backdooring attacks on deep neural networks [Paper](https://arxiv.org/pdf/1805.12185)
+ > Authors: Liu, Kang, Brendan Dolan-Gavitt, and Siddharth Garg
  
- > Publisher: 
+ > Publisher: International Symposium on Research in Attacks, Intrusions, and Defenses
  
- > 
+ > Fine-pruning: pruning the model then fine-tune. remove the "dormant" neurons on clean input until the benign accuracy drops below a threshold.
 
- > Category: 
+ > Category: model level defense, fine-tuning, model pruning
 
 
 ## 2017
-###### 1.  [Paper]()
- > Authors: 
+###### 1. Neural trojans [Paper](https://ieeexplore.ieee.org/iel7/8118206/8119172/08119189.pdf)
+ > Authors: Liu, Yuntao, Yang Xie, and Ankur Srivastava
  
- > Publisher: 
+ > Publisher: IEEE International Conference on Computer Design (ICCD)
  
- > 
+ > The backdoored model is fine-tuned with benign dataset that is 20% size of the original dataset
 
- > Category: 
+ > Category: model level defense, fine-tuning
 
 
 # Benign use of Backdoor attacks
