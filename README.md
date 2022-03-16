@@ -95,7 +95,7 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
  
  > Review the challenges and recent research advances for security issues in AI.
 
-###### 3. Security Meets Deep Learning [PhD Dissertation](https://search.proquest.com/openview/b52f04da04e5213385f37eb6ec00cae8/1?pq-origsite=gscholar&cbl=18750&diss=y)
+###### 3. Security Meets Deep Learning [PhD Thesis](https://search.proquest.com/openview/b52f04da04e5213385f37eb6ec00cae8/1?pq-origsite=gscholar&cbl=18750&diss=y)
  > Authors: He, Zecheng
  
  > Publisher: Princeton University
