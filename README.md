@@ -465,86 +465,85 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
 ## 2021
 ###### 1. Neural attention distillation: Erasing backdoor triggers from deep neural networks [Paper](https://arxiv.org/pdf/2101.05930.pdf?ref=https://githubhelp.com)
- > Authors: 
+ > Authors: Li, Yige, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, and Xingjun Ma
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > First, it fine-tunes the backdoor model on a benign dataset, then it applies attention distillation by defining the backdoor model as a student and the refined model as a teacher
 
- > Category: 
+ > Category: model level defense, fine-tuning
 
 ###### 2. Adversarial neuron pruning purifies backdoored deep models [Paper](https://proceedings.neurips.cc/paper/2021/file/8cbe9ce23f42628c98f80fa0fac8b19a-Paper.pdf)
- > Authors: 
+ > Authors: Wu, Dongxian, and Yisen Wang
  
- > Publisher: 
+ > Publisher: Advances in Neural Information Processing Systems
  
- > 
+ > Adversarial Neuron Pruning (ANP), which prunes some sensitive neurons to purify the injected backdoor
 
- > Category: 
+ > Category: model level defense
 
 ###### 3. Detecting Backdoor in Deep Neural Networks via Intentional Adversarial Perturbations [Paper](https://arxiv.org/pdf/2105.14259)
- > Authors: 
+ > Authors: Xue, Mingfu, Yinghao Wu, Zhiyu Wu, Yushu Zhang, Jian Wang, and Weiqiang Liu
  
- > Publisher: 
+ > Publisher: ArXiv
  
- > 
+ > Given an untrusted image, the adversarial perturbation is added to the image intentionally. If the prediction of the model on the perturbed image is consistent with that on the unperturbed image, the input image will be considered as a backdoor instance.
 
- > Category: 
+ > Category: Data level defense
 
 ###### 4. Boundary augment: A data augment method to defend poison attack [Paper](https://scholar.google.com/scholar?output=instlink&q=info:5o_b0ZSyIFgJ:scholar.google.com/&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2021&as_yhi=2021&scillfp=2463025849653391467&oi=lle)
- > Authors: 
+ > Authors: Chen, Xuan, YueNa Ma, ShiWei Lu, and Yu Yao
  
- > Publisher: 
+ > Publisher: IET Image Processing
  
- > 
+ > Method to defend against poison attacks by estimating the distribution of poison data and retraining the backdoor model with a few training data
 
- > Category: 
+ > Category: model level defense
 
 ###### 5. Deepsweep: An evaluation framework for mitigating dnn backdoor attacks using data augmentation [Paper](https://dl.acm.org/doi/pdf/10.1145/3433210.3453108)
- > Authors: 
+ > Authors: Qiu, Han, Yi Zeng, Shangwei Guo, Tianwei Zhang, Meikang Qiu, and Bhavani Thuraisingham
  
- > Publisher: 
+ > Publisher: ACM Asia Conference on Computer and Communications Security
  
- > 
+ > Consider 71 data augmentation strategies, and determine the top-6 methods, which can efficiently aid the removal of thebackdoor by means of fine-tuning. Then, the authors augment the data in the benign dataset with all the six methods, and fine-tune the backdoored model
 
- > Category: 
+ > Category: model level defense, fine-tuning
 
 ###### 6. Detecting scene-plausible perceptible backdoors in trained dnns without access to the training set [Paper](https://scholar.google.com/scholar?output=instlink&q=info:TEVmgXii7iQJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=9902495154299535680&oi=lle)
- > Authors: 
+ > Authors: Xiang, Zhen, David J. Miller, Hang Wang, and George Kesidis
  
- > Publisher: 
+ > Publisher: Neural computation
  
- > 
+ > Backdoor detetcion based on hypothesis testing that relies on maximum achievable misclassification fraction statistics
 
- > Category: 
+ > Category: model level defense
 
 ###### 7. Detecting ai trojans using meta neural analysis [Paper](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519467.pdf)
- > Authors: 
+ > Authors: Xu, Xiaojun, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li
  
- > Publisher: 
+ > Publisher: IEEE Symposium on Security and Privacy (SP)
  
- > 
+ > Extract k-th layer features from benign and poisoned models and train a meta classifier on them
 
- > Category: 
+ > Category: model level defense, meta classification
 
 ###### 8. Demon in the Variant: Statistical Analysis of {DNNs} for Robust Backdoor Contamination Detection [Paper](https://www.usenix.org/system/files/sec21-tang-di.pdf)
- > Authors: 
+ > Authors: Tang, Di, XiaoFeng Wang, Haixu Tang, and Kehuan Zhang
  
- > Publisher: 
+ > Publisher: USENIX Security Symposium
  
- > 
+ > Universal variation assumption. Test identity-related features and intra-class variations. if two clusters of one class found, it is backdoored.
 
- > Category: 
+ > Category: model level defense, meta classification
 
 ###### 9. De-pois: An attack-agnostic defense against data poisoning attacks [Paper](https://ieeexplore.ieee.org/iel7/10206/4358835/09431105.pdf)
- > Authors: 
+ > Authors: Chen, Jian, Xuxin Zhang, Rui Zhang, Chen Wang, and Ling Liu
  
- > Publisher: 
+ > Publisher: " IEEE Transactions on Information Forensics and Security
  
- > 
+ > Clean the poisoned data distilling the knowledge of the backdoor model, and further remove the poisoned data from the poisoned training dataset by comparing the predictions of the backdoor and distillation models
 
- > Category: 
-
+ > Category: Training dataset level defense
 
 
 ## 2020
