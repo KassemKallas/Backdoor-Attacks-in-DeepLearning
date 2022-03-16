@@ -203,6 +203,15 @@ In this section, we will list the backdoor attacks on image and video models as 
 
  > Category: clean label, blackbox, control the dataset and the labels
 
+###### 2. Clean-Annotation Backdoor Attack against Lane Detection Systems in the Wild [Paper](https://arxiv.org/pdf/2203.00858.pdf)
+ > Authors: Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang
+ 
+ > Publisher: 
+ 
+ > 
+
+ > Category: clean label, blackbox, control the dataset and the labels
+
 ## 2021
 ###### 1. WaNet--Imperceptible Warping-based Backdoor Attack [Paper](https://arxiv.org/pdf/2102.10369)
  > Authors: A Nguyen, A Tran 
