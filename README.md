@@ -21,6 +21,9 @@ So, under each paper, we will try to classify the categories selected by the aut
 Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 ## Index
+- [Deep Reinforcement Learning Backdoors](#deep-reinforcement-learning-backdoors)
+  * [TBA](#tba)
+- [Natural Language Processing Backdoors](#natural-language-processing-backdoors)
 - [AI-Backdoor](#ai-backdoor)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
@@ -42,24 +45,21 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
   * [2018](#2018-1)
   * [2017](#2017-1)
 - [Benign use of Backdoor attacks: DNN Watermarking](#benign-use-of-backdoor-attacks--dnn-watermarking)
-  * [2022](#2022)
-  * [2021](#2021)
-  * [2020](#2020)
-  * [2019](#2019)
-  * [2018](#2018)
-  * [2017](#2017)
+  * [2022](#2022-3)
+  * [2021](#2021-3)
+  * [2020](#2020-3)
+  * [2019](#2019-2)
+  * [2018](#2018-2)
+  * [2017](#2017-2)
 - [Benign use of Backdoor attacks: Adversarial examples detection](#benign-use-of-backdoor-attacks--adversarial-examples-detection)
-  * [2022](#2022-1)
-  * [2021](#2021-1)
-  * [2020](#2020-1)
-  * [2019](#2019-1)
-  * [2018](#2018-1)
-  * [2017](#2017-1)
-
-- [Deep Reinforcement Learning Backdoors](#deep-reinforcement-learning-backdoors)
-
-- [Natural Language Processing Backdoors](#natural-language-processing-backdoors)
-
+  * [2022](#2022-4)
+  * [2021](#2021-4)
+  * [2020](#2020-4)
+  * [2019](#2019-3)
+  * [2018](#2018-3)
+  * [2017](#2017-3)
+- [Deep Reinforcement Learning Backdoors](#deep-reinforcement-learning-backdoors-1)
+- [Natural Language Processing Backdoors](#natural-language-processing-backdoors-1)
 
 # Available sources and toolboxes
 * [TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors](https://github.com/ain-soph/trojanzoo)
