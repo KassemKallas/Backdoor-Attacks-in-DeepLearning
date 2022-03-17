@@ -894,7 +894,7 @@ during the last two decades, while at the same time highlighting the new challen
 ## 2020
 
 ## 2019
-###### 1. Gotta catch'em all: Using concealed trapdoors to detect adversarial attacks on neural networks[Paper](https://dl.acm.org/doi/pdf/10.1145/3372297.3417231)
+###### 1. Gotta catch'em all: Using concealed trapdoors to detect adversarial attacks on neural networks [Paper](https://dl.acm.org/doi/pdf/10.1145/3372297.3417231)
  > Authors: Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao
 
  > Publisher: ACM SIGSAC Conference on Computer and Communications Security
