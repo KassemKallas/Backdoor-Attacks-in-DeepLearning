@@ -20,9 +20,9 @@ So, under each paper, we will try to classify the categories selected by the aut
 
 Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
-## Index
+# Index
 - [AI-Backdoor](#ai-backdoor)
-  * [Index](#index)
+- [Index](#index)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
   * [2022](#2022)
