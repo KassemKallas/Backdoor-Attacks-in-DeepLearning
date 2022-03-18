@@ -24,6 +24,7 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 - [AI-Backdoor](#ai-backdoor)
 - [Index](#index)
 - [Datasets](#datasets)
+  * [[MNIST](http://yann.lecun.com/exdb/mnist/)](#-mnist--http---yannlecuncom-exdb-mnist--)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
   * [2022](#2022)
@@ -60,6 +61,11 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 - [Natural Language Processing Backdoors](#natural-language-processing-backdoors)
           + [TBA](#tba-1)
 # Datasets
+## [MNIST](http://yann.lecun.com/exdb/mnist/)
+ > The MNIST database of handwritten digits, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
+
+
+
 # Available sources and toolboxes
 * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
  > Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
