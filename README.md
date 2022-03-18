@@ -24,7 +24,6 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 - [AI-Backdoor](#ai-backdoor)
 - [Index](#index)
 - [Datasets](#datasets)
-  * [[MNIST](http://yann.lecun.com/exdb/mnist/)](#-mnist--http---yannlecuncom-exdb-mnist--)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
   * [2022](#2022)
