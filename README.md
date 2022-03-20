@@ -83,19 +83,19 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 ## [ImageNet](https://www.image-net.org)
  > The ImageNet project is a large visual database designed for use in visual object recognition software research. More than 14 million images have been hand-annotated by the project to indicate what objects are pictured and in at least one million of the images, bounding boxes are also provided.
 
-## [German Traffic Sign Recognition Dataset]https://benchmark.ini.rub.de)
+## [German Traffic Sign Recognition Dataset](https://benchmark.ini.rub.de)
  > German Traffic Sign Recognition Dataset (GTSRB) is an image classification dataset. The images are photos of traffic signs. The images are classified into 43 classes. The training set contains 39209 labeled images and the test set contains 12630 images.
 
-## [VGGFace]https://www.robots.ox.ac.uk/~vgg/data/vgg_face/)
+## [VGGFace](https://www.robots.ox.ac.uk/~vgg/data/vgg_face/)
  > The VGG Face dataset is face identity recognition dataset that consists of 2622 identities. It contains over 2.6 million images.
 
-## [Urban Traffic Surveillance]https://github.com/csyizhou/UTS-Dataset)
+## [Urban Traffic Surveillance](https://github.com/csyizhou/UTS-Dataset)
  > The Urban Traffic Surveillance (UTS) dataset is collected with six videos which were captured from different viewpoints and illumination conditions. All the vehicles are annotated with bounding box, viewpoint, type and color.
 
 ## [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
  > Labeled Faces in the Wild, a database of face photographs designed for studying the problem of unconstrained face recognition. The data set contains more than 13,000 images of faces collected from the web. Each face has been labeled with the name of the person pictured. 1680 of the people pictured have two or more distinct photos in the data set. The only constraint on these faces is that they were detected by the Viola-Jones face detector.
 
-## [YouTube Faces Database]https://www.cs.tau.ac.il/~wolf/ytfaces/)
+## [YouTube Faces Database](https://www.cs.tau.ac.il/~wolf/ytfaces/)
  > YouTube Faces Database, a database of face videos designed for studying the problem of unconstrained face recognition in videos.
 The data set contains 3,425 videos of 1,595 different people. All the videos were downloaded from YouTube. An average of 2.15 videos are available for each subject. The shortest clip duration is 48 frames, the longest clip is 6,070 frames, and the average length of a video clip is 181.3 frames. 
 
