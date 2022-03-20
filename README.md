@@ -32,7 +32,7 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
   * [VGGFace](#vggface)
   * [Urban Traffic Surveillance](#urban-traffic-surveillance)
   * [Labeled Faces in the Wild](#labeled-faces-in-the-wild)
-  * [YouTube Faces Database](#YouTube Faces Database)
+  * [YouTube Faces Database](#youtube-faces-database)
   * [Shadow Removal Dataset](#shadow-removal-dataset)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
