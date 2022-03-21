@@ -937,7 +937,7 @@ during the last two decades, while at the same time highlighting the new challen
  > Watermarking Deep Neural Networks in a blackbox setting
 
 ## 2017
-###### 1. Embedding Watermarks into Deep Neural Networks[Paper](https://dl.acm.org/doi/pdf/10.1145/3078971.3078974)
+###### 1. Embedding Watermarks into Deep Neural Networks [Paper](https://dl.acm.org/doi/pdf/10.1145/3078971.3078974)
  > Authors: Yusuke Uchida, Yuki Nagai, Shigeyuki Sakazawa, Shin'ichi Satoh
 
  > Publisher: Proceedings of the 2017 ACM on International Conference on Multimedia Retrieval
