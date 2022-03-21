@@ -937,6 +937,14 @@ during the last two decades, while at the same time highlighting the new challen
  > Watermarking Deep Neural Networks in a blackbox setting
 
 ## 2017
+###### 1. Embedding Watermarks into Deep Neural Networks[Paper](https://dl.acm.org/doi/pdf/10.1145/3078971.3078974)
+ > Authors: Yusuke Uchida, Yuki Nagai, Shigeyuki Sakazawa, Shin'ichi Satoh
+
+ > Publisher: Proceedings of the 2017 ACM on International Conference on Multimedia Retrieval
+ 
+ > For a selected convolutional layer, the weights tensor W is flattened according by taking the average of the weights in the filter-dimension. The Watermark embedding is achieved by training the DNN with an additional loss term ensuring that the watermark bits can be correctly extracted
+from the weights tensor. They use a spreading matrix X as the watermark key based on which the watermark is injected into the weights. X is drawn from a Gaussian distribution with zero mean and unitary variance. Some tests are done on the robustness of the watermark to fine-tuning as well.
+
 
 # Benign use of Backdoor attacks: Adversarial examples detection
 ## 2022
