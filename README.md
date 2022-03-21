@@ -34,6 +34,7 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
   * [Labeled Faces in the Wild](#labeled-faces-in-the-wild)
   * [YouTube Faces Database](#youtube-faces-database)
   * [Shadow Removal Dataset](#shadow-removal-dataset)
+  * [Caltech101](#caltech101)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
 - [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
   * [2022](#2022)
@@ -101,6 +102,9 @@ The data set contains 3,425 videos of 1,595 different people. All the videos wer
 
 ## [Shadow Removal Dataset](https://github.com/vinthony/ghost-free-shadow-removal)
  > SRD is a dataset for shadow removal that contains 3088 shadow and shadow-free image pairs.
+
+## [Caltech101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
+ > Pictures of objects belonging to 101 categories. About 40 to 800 images per category. Most categories have about 50 images. Collected in September 2003 by Fei-Fei Li, Marco Andreetto, and Marc 'Aurelio Ranzato.  The size of each image is roughly 300 x 200 pixels.
 
 
 # Available sources and toolboxes
