@@ -36,6 +36,17 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
   * [Shadow Removal Dataset](#shadow-removal-dataset)
   * [Caltech101](#caltech101)
 - [Available sources and toolboxes](#available-sources-and-toolboxes)
+  * [Machine Learning Glossary](#machine-learning-glossary)
+
+  * [AI CHEATSHEET](#ai-cheatsheet)
+
+  * [TrojanZoo](#trojanzoo)
+
+  * [BackdoorBox](#backdoorbox)
+
+  * [Backdoors 101](#backdoors-101)
+
+
 - [Surveys and Thesis on Backdoor Attacks and Defenses](#surveys-and-thesis-on-backdoor-attacks-and-defenses)
   * [2022](#2022)
   * [2021](#2021)
@@ -111,13 +122,16 @@ The data set contains 3,425 videos of 1,595 different people. All the videos wer
 * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
  > Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
 
-* [TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors](https://github.com/ain-soph/trojanzoo)
+* [AI CHEATSHEET](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+ > Artificial intelligence 101 first world-class overview of AI for all. This is cheatsheet for almost everything in AI up to 2021 provided by Montreal.AI.
+
+* [TrojanZoo](https://github.com/ain-soph/trojanzoo)
  > TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning.
 
 * [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
  > BackdoorBox is a Python toolbox for backdoor learning research. Specifically, BackdoorBox contains modules for conducting backdoor attacks and backdoor  defenses. This project is still under development and therefore there is no user manual yet.
 
-* [Backdoors 101](https://github.com/ebagdasa/backdoors101)
+* [Backdoors 101](https://montreal.ai/ai4all.pdf)
  > Backdoors 101 is a PyTorch framework for state-of-the-art backdoor defenses and attacks on deep learning models. It includes real-world datasets, centralized and federated learning, and supports various attack vectors.
 
 * [Adversarial Robustness Toolbox](https://adversarial-robustness-toolbox.readthedocs.io/en/latest/guide/setup.html)
