@@ -121,7 +121,7 @@ The data set contains 3,425 videos of 1,595 different people. All the videos wer
 ###### [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
  > Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more.
 
-###### [AI CHEATSHEET](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+###### [AI CHEATSHEET](https://www.montreal.ai/ai4all.pdf)
  > Artificial intelligence 101 first world-class overview of AI for all. This is cheatsheet for almost everything in AI up to 2021 provided by Montreal.AI.
 
 ###### [TrojanZoo](https://github.com/ain-soph/trojanzoo)
