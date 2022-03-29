@@ -942,9 +942,35 @@ Backdoor defenses could work on one or more of the following three levels: the d
  > Overview the most recent advances in DNN watermarking, by paying attention to cast them into the bulk of watermarking theory developed
 during the last two decades, while at the same time highlighting the new challenges and opportunities characterising DNN watermarking.
 
+###### 3. Spread-Transform Dither Modulation Watermarking of Deep Neural Network [Paper](https://www.sciencedirect.com/science/article/pii/S221421262100209X)
+ > Authors: Yue Li, Benedetta Tondi and Mauro Barni
+ 
+ > Publisher: Spread-Transform Dither Modulation Watermarking of Deep Neural Network
+ 
+ > Exploit informed coding (Spread-Transform Dither Modulation) to increase the payload and/or reduce the impact of watermarking on the accuracy of the watermarked model. The work is a slight modification on the Uchida’s algorithm 2017.
+
+ > Category: white box, Multi bit, static watermark
+
+
 ## 2020
+###### 1. Delving in the loss landscape to embed robust watermarks into neural networks [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9413062)
+ > Authors: Enzo Tartaglione, Marco Grangetto, Davide Cavagnino and Marco Botta
+ 
+ > Publisher: International Conference on Pattern Recognition (ICPR)
+ 
+ > A pseudorandom generator is used to select the weights of the model to be watermarked. Then, the weights are frozen during training. The loss function is modified in order to maximize the sensitivity to changes in the watermarked weights and hence, increase robustness to fine-tuning and pruning.
+
+ > Category: white box, zero-bit, static watermark
 
 ## 2019
+###### 1. Deepmarks: A secure fingerprinting framework for digital rights management of deep learning models [Paper](https://dl.acm.org/doi/pdf/10.1145/3323873.3325042)
+ > Authors: Huili Chen, Bita Darvish Rouhani, Cheng Fu, Jishen Zhao and Farinaz Koushanfar
+ 
+ > Publisher: International Conference on Multimedia Retrieval
+ 
+ > This work exploits Uchida’s algorithm to implement a traitor tracing watermarking system with anti-collusion capabilities. Different codes are assigned to different user of the network. Then, a watermark bearing the user’s code is embedded within the network prior to its release to the user. If a non-authorized copy of the model is found, the content of the watermark allows to identify the user who illegally distributed it. To avoid that a subset of the users form a coalition, toproduce a new model where all the watermarks are mixed together hence making it impossible to identify the users who redistributed the model illegally, Anti Collusion Codes (ACC) may be used to identify the users.
+
+ > Category: white box, Multi bit, static watermark
 
 ## 2018
 ###### 1. Turning your weakness into a strength: Watermarking deep neural networks by backdooring [Paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-adi.pdf)
@@ -963,7 +989,7 @@ during the last two decades, while at the same time highlighting the new challen
  > For a selected convolutional layer, the weights tensor W is flattened according by taking the average of the weights in the filter-dimension. The Watermark embedding is achieved by training the DNN with an additional loss term ensuring that the watermark bits can be correctly extracted
 from the weights tensor. They use a spreading matrix X as the watermark key based on which the watermark is injected into the weights. X is drawn from a Gaussian distribution with zero mean and unitary variance. Some tests are done on the robustness of the watermark to fine-tuning as well.
 
-> Category: white box, weights modification via loss function
+> Category: white box, weights modification via loss function, multi-bit, static watermark
 
 
 # Benign use of Backdoor attacks: Adversarial examples detection
