@@ -945,11 +945,20 @@ during the last two decades, while at the same time highlighting the new challen
 ###### 3. Spread-Transform Dither Modulation Watermarking of Deep Neural Network [Paper](https://www.sciencedirect.com/science/article/pii/S221421262100209X)
  > Authors: Yue Li, Benedetta Tondi and Mauro Barni
  
- > Publisher: Spread-Transform Dither Modulation Watermarking of Deep Neural Network
+ > Publisher: Journal of Information Security and Applications
  
  > Exploit informed coding (Spread-Transform Dither Modulation) to increase the payload and/or reduce the impact of watermarking on the accuracy of the watermarked model. The work is a slight modification on the Uchida’s algorithm 2017.
 
  > Category: white box, Multi bit, static watermark
+
+###### 4. Dawn: Dynamic adversarial watermarking of neural networks [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475591)
+ > Authors: YSzyller, Sebastian, Buse Gul Atli, Samuel Marchal, and N. Asokan
+ 
+ > Publisher: ACM International Conference on Multimedia
+ 
+ > Dawn idea main focus is to avoid surrogate model attacks. They deploy an API at the input and output of the model that responds to queries made by the clients. The work tries to enforce the adversaries to learn false predictions while training a surrogate model and hence, make them inject a watermark into his model. The key images and corrupted labels are generated using SHA256 with a secret key.
+
+ > Category: black box, zero bit
 
 
 ## 2020
@@ -962,6 +971,33 @@ during the last two decades, while at the same time highlighting the new challen
 
  > Category: white box, zero-bit, static watermark
 
+###### 2. Adversarial frontier stitching for remote neural network watermarking [Paper](https://link.springer.com/article/10.1007/s00521-019-04434-z)
+ > Authors: Le Merrer, Erwan, Patrick Perez, and Gilles Trédan
+ 
+ > Publisher: Neural Computing and Applications
+ 
+ > Embeds the watermark by fine-tuning a pre-trained model so that the boundary of the classification region assumes a desired shape. This is achieved by making use of adversarial attacks to tweak the decision boundary of the target model. The key image-label pairs are generated as adversarial examples. 
+
+ > Category: black box, zero-bit, dynamic watermark
+
+###### 3. Watermarking deep neural networks in image processing [Paper](https://ieeexplore.ieee.org/abstract/document/9093125)
+ > Authors: Quan, Yuhui, Huan Teng, Yixin Chen, and Hui Ji
+ 
+ > Publisher: IEEE transactions on neural networks and learning systems
+ 
+ > key-input images are noise-like images generated randomly according to a uniform distribution. Then, the network is trained in such a way that the output images in correspondence to the noise trigger images contain a watermark pattern crafted by applying to the noise image an operator mimicking the image processing task carried out by the network. The watermark pattern can be either retrieved from the output images to prove the ownership of the model, or transformed into a logo-image for visual verification. The work is tested on denoising CNN and Super-resolution.
+
+ > Category: black box, Multi-bit, dynamic watermark, Image processing tasks (not classification)
+
+###### 4. Model watermarking for image processing networks [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6976)
+ > Authors: Zhang, Jie, Dongdong Chen, Jing Liao, Han Fang, Weiming Zhang, Wenbo Zhou, Hao Cui, and Nenghai Yu
+ 
+ > Publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+ 
+ > Using a sub-network to embed a watermak into the images produced by the original model. The pipeline consists of an image processing network, embedding sub-network, a discriminator and an exctractor sub-network.
+
+ > Category: box-free, Multi-bit, dynamic watermark, Image processing tasks (not classification)
+
 ## 2019
 ###### 1. Deepmarks: A secure fingerprinting framework for digital rights management of deep learning models [Paper](https://dl.acm.org/doi/pdf/10.1145/3323873.3325042)
  > Authors: Huili Chen, Bita Darvish Rouhani, Cheng Fu, Jishen Zhao and Farinaz Koushanfar
@@ -972,13 +1008,44 @@ during the last two decades, while at the same time highlighting the new challen
 
  > Category: white box, Multi bit, static watermark
 
+###### 2. Deepsigns: an end-to-end watermarking framework for protecting the ownership of deep neural networks [Paper](http://www.aceslab.org/sites/default/files/deepsigns.pdf)
+ > Authors: Rouhani, Bita Darvish, Huili Chen, and Farinaz Koushanfar.
+ 
+ > Publisher: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+ 
+ > In the white-box part: Embed N-bits into the probability density function of the activation maps by forcing the watermarked activation maps to follow a Guassian Mixture Model (GMM). This embeding is enforced using a modified loss function and input key images.
+
+ > In the black-box part: Train pairs of random selected images and labels as key image-label pairs which are chosen among the imagesthat are misclassified by the original unmarked model. First a non-watermarked model is trained, then the model is fine-tuned on misclassified key image-label pairs.
+
+ > Category: white box, blackbox, Multi bit, zero-bit, static watermark, dynamic watermark
+
 ## 2018
 ###### 1. Turning your weakness into a strength: Watermarking deep neural networks by backdooring [Paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-adi.pdf)
  > Authors: Adi, Yossi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet
  
  > Publisher: USENIX Security Symposium
  
- > Watermarking Deep Neural Networks in a blackbox setting
+ > Select random images to inject a backdoor into the target model and use the trigger as a proof of intellectual property right.
+
+ > Category: blackbox, zero-bit, dynamic watermarking,  entangled key-images
+
+###### 2. Protecting intellectual property of deep neural networks with watermarking [Paper](https://dl.acm.org/doi/abs/10.1145/3196494.3196550)
+ > Authors: Zhang, Jialong, Zhongshu Gu, Jiyong Jang, Hui Wu, Marc Ph Stoecklin, Heqing Huang, and Ian Molloy
+ 
+ > Publisher: Asia Conference on Computer and Communications Security
+ 
+ > Backdoor-based watermark with visible trigger patterns with poisoned labels.
+
+ > Category: blackbox, zero-bit, dynamic watermarking
+
+###### 3. Watermarking deep neural networks for embedded systems [Paper](https://ieeexplore.ieee.org/abstract/document/8587745)
+ > Authors: Guo, Jia, and Miodrag Potkonjak
+ 
+ > Publisher: IEEE/ACM International Conference on Computer-Aided Design
+ 
+ > Backdoor-based watermark with invisible triggering signature
+
+ > Category: blackbox, zero-bit, dynamic watermarking
 
 ## 2017
 ###### 1. Embedding Watermarks into Deep Neural Networks [Paper](https://dl.acm.org/doi/pdf/10.1145/3078971.3078974)
