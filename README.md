@@ -39,6 +39,8 @@ Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
   * [Machine Learning Glossary](#machine-learning-glossary)
 
   * [AI CHEATSHEET](#ai-cheatsheet)
+  
+  * [Papers with code](#papers-with-code) 
 
   * [TrojanZoo](#trojanzoo)
 
@@ -123,6 +125,9 @@ The data set contains 3,425 videos of 1,595 different people. All the videos wer
 
 ###### [AI CHEATSHEET](https://www.montreal.ai/ai4all.pdf)
  > Artificial intelligence 101 first world-class overview of AI for all. This is cheatsheet for almost everything in AI up to 2021 provided by Montreal.AI.
+
+###### [Papers with code](https://paperswithcode.com/)
+ > Machine learning papers with codes.
 
 ###### [TrojanZoo](https://github.com/ain-soph/trojanzoo)
  > TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning.
