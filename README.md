@@ -917,6 +917,13 @@ Backdoor defenses could work on one or more of the following three levels: the d
 
 
 # Benign use of Backdoor attacks: DNN Watermarking
+In DNN watermarking, some classifications regarding the context and the frame of the proposed solutions are necessary. In the following, we list some main categories to which a DNN watermarking solution might belongs:
+
+- Multi-bit vs Zero-bit: Mutli-bit case refers to the recovery of the watermark message bits while the zero-bit corresponds only to a detection problem of a present watermark in the tested content or not.
+- Robust vs. Fragile: robust watermark can survive some necessary intentional processing tasks on the watermarked network. Common processing include fine-tuning and parameters/neurons pruning. On the other hand, fragile watermark does not survive such processings but, one application for fragile watermarking could be data authentication.
+- Informed watermarking: interpreting the watermarking as a channel coding problem (informed coding). The watermark is associated to a set of codewords and the watermark embedding is applied by selecting the codeword with minimum distortion. This classification mainly related to multi-bit watermarking.
+- White-box vs. Black-box vs Box-free Watermarking extraction: this classification depends on the data accessible to the watermark extractor. For instance, in white-box, the internal paramters of the DNN are available, while in black-box only the final output of the DNN is available and the extractor monitor the output with properly crafted inputs. Finally, in free-box there is no necessasity to feed properly crafted inputs and watch the outputs because the watermark is present in all the samples and this scenario refers to image-processing networks rather than simple classification DNNs.
+- Static vs Dynamic watermarking: in static watermarking, the watermark is embedded directly into the DNN weights while, in the dynamic watermarking, the watermark is correlated to the behavior of the DNN in the response to particular inputs i.e. triggering, key inputs etc...
 
 ## 2022
 ###### 1. Method for copyright protection of deep neural networks using digital watermarking [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12084/1208412/Method-for-copyright-protection-of-deep-neural-networks-using-digital/10.1117/12.2623444.short)
