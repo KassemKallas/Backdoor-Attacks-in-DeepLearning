@@ -967,6 +967,13 @@ during the last two decades, while at the same time highlighting the new challen
 
  > Category: black box, zero bit
 
+###### 5. SoK: How Robust is Image Classification Deep Neural Network Watermarking? (Extended Version) [Paper](https://arxiv.org/abs/2108.04974)
+ > Authors: Nils Lukas, Edward Jiang, Xinda Li, Florian Kerschbaum
+ 
+ > Publisher: ArXiv
+ 
+ > This paper surveys DNN watermarking removal attacks and propose watermark removal attacks. The authors study the robustness of the watermarking schemes against a comprehensive list of attacks and show that none of them is reobust against all attacks. In addition, none of the state-of-art attacks is successful against all the watermarking schemes. A toolbox that implement all the attacks and watermarking schemes is available at https://github.com/dnn-security/Watermark-Robustness-Toolbox 
+
 
 ## 2020
 ###### 1. Delving in the loss landscape to embed robust watermarks into neural networks [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9413062)
