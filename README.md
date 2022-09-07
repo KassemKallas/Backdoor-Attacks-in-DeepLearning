@@ -20,6 +20,10 @@ So, under each paper, we will try to classify the categories selected by the aut
 
 Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
+- 👯 I’m looking to collaborate on research works regarding AI security
+- 💬 Ask me about deep learning, computer vision, cyber security
+- 📫 for any suggestions or papers update please, reach me by email: k_kallas@hotmail.com
+
 # Index
 - [AI-Backdoor](#ai-backdoor)
 - [Index](#index)
