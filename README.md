@@ -1,4 +1,4 @@
-# AI-Backdoor
+# Backdoor Attacks and Defenses in Deep Learning
 The aim of this Github repository is to gather and summarise research work on Backdoor attacks and Defenses in Deep Learning. In particular, we will list and present attacks and defenses on AI and Deep Learning with a summary and categorization for each work.
 First, we will list the papers in chronological order from older to newer. In addition, we will try to categorize the attacks and defenses based on the threat model, the amount of knowledge available to the attacker and the defender and the adversarial settings.
 
