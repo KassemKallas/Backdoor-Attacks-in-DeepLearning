@@ -1,28 +1,15 @@
 # AI-Backdoor
-The aim of this Github repository is to gather and summarise Backdoor in AI resources. In particular, we will list and present attacks and defenses on AI and Deep Learning systems together with code repositories if exist.
-First, we will list the papers in chronological order from older to newer.
-In addition, we will try to categorize the attacks and defenses based on the threat model, the amount of knowledge available to the attacker and the defender and the adversarial settings.
+The aim of this Github repository is to gather and summarise research work on Backdoor attacks and Defenses in Deep Learning. In particular, we will list and present attacks and defenses on AI and Deep Learning with a summary and categorization for each work.
+First, we will list the papers in chronological order from older to newer. In addition, we will try to categorize the attacks and defenses based on the threat model, the amount of knowledge available to the attacker and the defender and the adversarial settings.
 
 The main categories of attacks are: "clean label", "poisoned label", "blackbox", "whitebox", "full control", "partial control"
-
-The main research contributions to improve the backdoor attack works on one of the following:
-* reducing the backdoor signal (trigger) visibility to human visual system - stealthiness
-* improve the backdoor robustness
-* fine-tuning
-
-The defences on the other hand work on one of three levels:
-* Data
-* Model
-* Training Data
-
-
-So, under each paper, we will try to classify the categories selected by the authors in order to make the work comparable with others.
+Therefore, under each paper, we will try to classify the categories selected by the authors in order to make the works more comparable with each others.
 
 Keywords: "Backdoor attacks", "Adversarial attacks", "Trojans", "Neural Trojans"
 
 - 👯 I’m looking to collaborate on research works regarding AI security
 - 💬 Ask me about deep learning, computer vision, cyber security
-- 📫 for any suggestions or papers update please, reach me by email: k_kallas@hotmail.com
+- 📫 For any suggestions or papers update please, reach me by email: k_kallas@hotmail.com
 
 # Index
 - [AI-Backdoor](#ai-backdoor)
